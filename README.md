@@ -95,7 +95,7 @@ The objective was to understand sales performance, optimize routes, track cancel
 ---
 
 ## Dashboard
-👉 [Click here to explore the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTU0OWFmN2QtNjk3OS00ODM5LTg5ZDAtNDQ0OGI2MWE4ZTRlIiwidCI6IjYyZWE2YjA3LWY5YzUtNDk2My1hYWFhLWJjYmQ2YjhkNjFlZSJ9)  
+👉 [Click here to explore the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTk3YzlkZDEtZTU0OC00YWUxLWIyNjEtOGMxZGM3ZGY1YjFlIiwidCI6IjAyMWQ0Njk0LTAwOGUtNGUyMy04NTc3LTViMGM1NGIxNTc1NCJ9)  
 
   
 
